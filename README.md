@@ -16,6 +16,15 @@
   - Vertex AI
 - 📖 I love to read, fiction and non-fiction
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <!--
 **radmanesh/radmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
