@@ -20,17 +20,6 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/radmanesh/radmanesh.github.io/pull/5) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-2. 🎉 Merged PR [#2](https://github.com/radmanesh/radmanesh.github.io/pull/2) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-3. 🎉 Merged PR [#4](https://github.com/radmanesh/radmanesh.github.io/pull/4) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-4. 💪 Opened PR [#6](https://github.com/radmanesh/radmanesh.github.io/pull/6) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-5. 💪 Opened PR [#5](https://github.com/radmanesh/radmanesh.github.io/pull/5) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-6. 💪 Opened PR [#4](https://github.com/radmanesh/radmanesh.github.io/pull/4) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-7. 💪 Opened PR [#3](https://github.com/radmanesh/radmanesh.github.io/pull/3) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-8. 💪 Opened PR [#2](https://github.com/radmanesh/radmanesh.github.io/pull/2) in [radmanesh/radmanesh.github.io](https://github.com/radmanesh/radmanesh.github.io)
-<!--END_SECTION:activity-->
-
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, June 1st, 2021, 1:08:10 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
