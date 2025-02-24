@@ -15,4 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 8
+          GH_USERNAME: radmanesh
+          CONFIG_FILE: ./.github/recent-activity.config.yml

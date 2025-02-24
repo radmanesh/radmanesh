@@ -1,10 +1,8 @@
 settings:
     username: 'radmanesh' # Replace with your username or comment out this line
     commit_msg: '⚡ Update README with the recent activity'
-    max_lines: 5
-    readme_file: '../REDAME.md'
-    disabled_events:
-        - 'comments'
+    max_lines: 8
+    readme_file: './REDAME.md'
     url_text: '{REPO}{ID}'
     date:
         timezone: 'GMT-06:00'
