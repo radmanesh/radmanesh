@@ -20,9 +20,13 @@
 
 ### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, June 1st, 2021, 1:08:10 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
+
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
 2. 📔 Created new repository [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
