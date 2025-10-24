@@ -24,7 +24,7 @@
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 24th, 2025, 7:01:15 PM
+Last Updated: Friday, October 24th, 2025, 7:31:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -32,7 +32,7 @@ Last Updated: Friday, October 24th, 2025, 7:01:15 PM
 2. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
 3. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
 4. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
-5. ⬆️ Pushed undefined commit(s) to [radmanesh/ounlp](https://github.com/radmanesh/ounlp)
+5. ⬆️ Pushed undefined commit(s) to [ounlp/ounlp-website](https://github.com/ounlp/ounlp-website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
