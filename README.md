@@ -24,15 +24,15 @@
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 24th, 2025, 5:01:19 PM
+Last Updated: Friday, October 24th, 2025, 5:33:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [radmanesh/ounlp](https://github.com/radmanesh/ounlp)
-2. ⬆️ Pushed undefined commit(s) to [ounlp/ounlp-website](https://github.com/ounlp/ounlp-website)
-3. ⬆️ Pushed undefined commit(s) to [ounlp/ounlp-website](https://github.com/ounlp/ounlp-website)
-4. ⬆️ Pushed undefined commit(s) to [ounlp/ounlp-website](https://github.com/ounlp/ounlp-website)
-5. ⬆️ Pushed undefined commit(s) to [ounlp/ounlp-website](https://github.com/ounlp/ounlp-website)
+1. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+2. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+3. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+4. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+5. ⬆️ Pushed undefined commit(s) to [radmanesh/ounlp](https://github.com/radmanesh/ounlp)
 <!--RECENT_ACTIVITY:end-->
 
 ---
