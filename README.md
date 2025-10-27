@@ -24,14 +24,14 @@
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 9:01:12 PM
+Last Updated: Monday, October 27th, 2025, 9:31:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
-2. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
-3. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
-4. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+1. ⬆️ Pushed undefined commit(s) to [radmanesh/academicpages](https://github.com/radmanesh/academicpages)
+2. ⬆️ Pushed undefined commit(s) to [radmanesh/academicpages](https://github.com/radmanesh/academicpages)
+3. 💪 Opened PR [#2](undefined) in [radmanesh/academicpages](https://github.com/radmanesh/academicpages)
+4. ⬆️ Pushed undefined commit(s) to [radmanesh/academicpages](https://github.com/radmanesh/academicpages)
 5. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
 <!--RECENT_ACTIVITY:end-->
 
