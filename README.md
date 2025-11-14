@@ -24,15 +24,15 @@
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 14th, 2025, 5:01:13 AM
+Last Updated: Friday, November 14th, 2025, 5:34:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+1. ⬆️ Pushed undefined commit(s) to [radmanesh/dsai-recommender](https://github.com/radmanesh/dsai-recommender)
 2. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
 3. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
-4. ⬆️ Pushed undefined commit(s) to [radmanesh/webTesting](https://github.com/radmanesh/webTesting)
-5. ⬆️ Pushed undefined commit(s) to [radmanesh/responsive-web](https://github.com/radmanesh/responsive-web)
+4. ⬆️ Pushed undefined commit(s) to [ounlp/lab-website](https://github.com/ounlp/lab-website)
+5. ⬆️ Pushed undefined commit(s) to [radmanesh/webTesting](https://github.com/radmanesh/webTesting)
 <!--RECENT_ACTIVITY:end-->
 
 ---
