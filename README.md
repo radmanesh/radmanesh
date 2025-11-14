@@ -1,20 +1,78 @@
 ## Hi there 👋
 
-#### My name is Arman Radmanesh and I am a software engineer and researcher.
+### I'm Arman Radmanesh
+**Graduate Research Assistant | MS Data Science & Analytics @ University of Oklahoma**
 
-- 🔭 I’m currently working on Wearable devices biomarkers data and use Machine Learning to infer some ....?
-- 🌐 I'm using Google Cloud Project platform, and the services that I use the most are:
-  - Firebase
-     - Firebase Hosting
-     - Firebase extentions 
-     - Firebase Authentication
-     - firebase functions
-     - Firestore
-  - Cloud Logging
-  - Cloud Run,
-  - BigQuery
-  - Vertex AI
-- 📖 I love to read, fiction and non-fiction
+Master's student in Data Science and Analytics with 10+ years of software engineering experience, specializing in Agentic AI workflows, Prompt Engineering, RL-based LLM post-training, Retrieval Augmented Generation (RAGs), Coding Agents, and multi-agent systems.
+
+📫 **Contact:** [radmanesh@ou.edu](mailto:radmanesh@ou.edu) | [LinkedIn](https://linkedin.com/in/ArmanRadmanesh) | [Website](https://armanradmanesh.com)
+
+---
+
+## 🔬 Current Research
+
+**Graduate Research Assistant** at University of Oklahoma (Dec 2024 – present)
+- Researching multi-agent code generation and testing with focus on Agentic AI workflows
+- Developing pipelines for RL-based LLM post-training and RAG systems
+- Building robust multi-agent systems for code generation and testing
+- Working on Prompt Engineering techniques and system benchmarking
+
+---
+
+## 🎓 Education
+
+- **Master of Science in Data Science and Analytics** - University of Oklahoma, Norman, OK (Graduating Dec 2026)
+- **Bachelor of Computer Engineering** (minor in IT) - Amirkabir University of Technology, Tehran, Iran (2011)
+
+---
+
+## 💻 Skills
+
+### Programming & Frameworks
+Python, Java, Spring, C++, JavaScript/TypeScript, ReactJS, Next.js, Node.js, Express.js, HTML5, CSS3, Sass, jQuery, Tailwind CSS, Webpack, Grunt, Bun
+
+### AI & Machine Learning
+LLM inference & fine-tuning, RL-based post-training, RAGs, Prompt Engineering, Agentic AI workflows, multi-agent pipelines, testing/benchmarking, data preprocessing
+
+### Other Technologies
+SQL and NoSQL Databases, Unix command-line tools, Git, Docker, API design and RESTful services
+
+### Languages
+English, Farsi
+
+---
+
+## 🚀 Notable Projects
+
+### [Jamasp](https://jamasp.app)
+A scalable platform for wearable-device research with participant management and AI-enabled analytics. Built for behavioral science research with real-time data collection and analysis capabilities.
+
+### [Lens (Cut)](https://cut.social)
+A mobile-friendly toolkit (ReactJS, MongoDB) for behavioral experiments including ultimatum games, memory tests, and fasting studies. Designed for social research applications.
+
+---
+
+## 💼 Professional Experience Highlights
+
+- **Software Developer and Researcher** - New School for Social Research (Aug 2022 – Feb 2025)
+- **Senior Software Engineer** - BongaMonga (2016 – 2018) | Developed real estate web app
+- **Senior Software Engineer** - WhiteOx (2015 – 2016) | Built multiplayer card game UI and poker analysis app
+- **Senior Software Engineer / Co-founder** - Ratnic (2014 – 2015) | Developed quiz-based social platform
+- **Research Engineer and Developer** - ICT Research Institute (2012 – 2013) | Knowledge engineering and semantic methods
+
+---
+
+## 🌐 Cloud & Infrastructure
+
+I frequently use **Google Cloud Platform** services:
+- Firebase (Hosting, Authentication, Functions, Firestore, Extensions)
+- Cloud Logging, Cloud Run, BigQuery, Vertex AI
+
+---
+
+## 📖 Interests
+
+I love to read, both fiction and non-fiction, and I'm always exploring new technologies and research methodologies in AI and software engineering.
 
 ---
 
@@ -39,15 +97,4 @@ Last Updated: Friday, November 14th, 2025, 9:01:16 PM
 
 <!--
 **radmanesh/radmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
