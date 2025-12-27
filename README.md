@@ -44,7 +44,7 @@ English, Farsi
 
 ## 🚀 Notable Projects
 
-### [AgentifyDesign2Code](https://github.com/radmanesh/agentify-design2code)
+### [AgentifiedDesign2Code](https://github.com/radmanesh/agentbeats-design2code)
 A multi-agent extension of the Design2Code pipeline created as part of the [Berkeley AgentBeats Competition](https://rdi.berkeley.edu/agentx-agentbeats). This system enables a generation agent to produce HTML and CSS while an evaluation agent scores layout fidelity using Playwright, geometric IoU analysis, and multi-device screenshot comparison, and the fully agentified A2A workflow reproduces original Design2Code benchmarks while supporting structured critique-and-repair loops and tool-driven reasoning workflows.
 
 ### [ResponsiveGen: Multi-Device Sketch-to-Code System](https://github.com/radmanesh/ResponsiveGen)
