@@ -110,15 +110,15 @@ I love to read, both fiction and non-fiction, and I'm always exploring new techn
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 2nd, 2026, 6:43:49 PM
+Last Updated: Tuesday, February 3rd, 2026, 12:15:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#47](undefined) in [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
-2. ⬆️ Pushed undefined commit(s) to [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
-3. 💪 Opened PR [#46](undefined) in [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
-4. ⬆️ Pushed undefined commit(s) to [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
-5. 💪 Opened PR [#45](undefined) in [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
+1. ⬆️ Pushed undefined commit(s) to [radmanesh/radmanesh](https://github.com/radmanesh/radmanesh)
+2. 💪 Opened PR [#47](undefined) in [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
+3. ⬆️ Pushed undefined commit(s) to [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
+4. 💪 Opened PR [#46](undefined) in [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
+5. ⬆️ Pushed undefined commit(s) to [radmanesh/portfolio](https://github.com/radmanesh/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ---
